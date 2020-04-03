@@ -1,0 +1,1 @@
+This example demonstrates how to emulate Redux using the latest useReducer and useContext features introduced since React 16.8.  
